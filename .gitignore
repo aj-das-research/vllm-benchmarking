@@ -106,5 +106,4 @@ dmypy.json
 # Project-specific ignores
 config.yaml
 *.log
-output/
-data/
+

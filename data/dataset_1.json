@@ -1,0 +1,16 @@
+[
+    {
+      "name": "dataset1",
+      "data": [
+        {"input": "Sachin Tendulkar is a cricketer from"},
+        {"input": "Narendra Modi is PM of"}
+      ]
+    },
+    {
+      "name": "dataset2",
+      "data": [
+        {"input": "The phenomenon of plants preparing their own food by themself is known as"},
+        {"input": "APJ Abdul Kalam is from"}
+      ]
+    }
+  ]
