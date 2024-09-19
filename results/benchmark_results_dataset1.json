@@ -1,0 +1,16 @@
+[
+  {
+    "input": "Sachin Tendulkar is a cricketer from",
+    "output": {
+      "generated_text": "Sachin Tendulkar is a cricketer from the Indian state of Maharashtra. He is a former captain of the Indian Army. He is a member of the Indian Army Cricket Board.\n\nHe is a member of the Indian Army Cricket Board.\n\nHe is a member of the Indian Army Cricket Board.\n\nHe is a member of the Indian Army Cricket Board.\n\nHe is a member of the Indian Army Cricket Board.\n\nHe is a member of the Indian"
+    },
+    "latency": 615.1630289554596
+  },
+  {
+    "input": "Narendra Modi is PM of",
+    "output": {
+      "generated_text": "Narendra Modi is PM of the BJP, and he is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP. He is the prime minister of the BJP"
+    },
+    "latency": 2536.242559194565
+  }
+]
